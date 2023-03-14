@@ -1,4 +1,4 @@
-#!/usr/bin/python3i
+#!/usr/bin/python3
 import random
 number = random.randint(-10000, 10000)
 text = "and is less tha 6 and not 0"
